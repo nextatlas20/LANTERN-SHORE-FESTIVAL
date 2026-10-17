@@ -1,0 +1,14 @@
+{"screening_id":"SF-101","version":1,"delivered_at":"2032-09-18T15:10Z","format":"SRT","qc":"PASS"}
+{"screening_id":"SF-101","version":2,"delivered_at":"2032-09-18T16:45Z","format":"VTT","qc":"PASS"}
+{"screening_id":"SF-204","version":1,"delivered_at":"2032-09-18T14:00Z","format":"SRT","qc":"PASS"}
+{"screening_id":"SF-204","version":2,"delivered_at":"2032-09-18T16:20Z","format":"SRT","qc":"FAIL"}
+{"screening_id":"SF-305","version":1,"delivered_at":"2032-09-18T16:00Z","format":"TTML","qc":"PASS"}
+{"screening_id":"SF-410","version":1,"delivered_at":"2032-09-18T16:50Z","format":"SRT","qc":"PASS"}
+{"screening_id":"SF-410","version":2,"delivered_at":"2032-09-18T17:05Z","format":"SRT","qc":"PASS"}
+{"screening_id":"SF-512","version":2,"delivered_at":"2032-09-18T16:40Z","format":"VTT","qc":"FAIL"}
+{"screening_id":"SF-512","version":2,"delivered_at":"2032-09-18T16:42Z","format":"VTT","qc":"FAIL"}
+{"screening_id":"SF-512","version":3,"delivered_at":"2032-09-18 16:50Z","format":"VTT","qc":"PASS"}
+{"screening_id":"SF-888","version":1,"delivered_at":"2032-09-18T16:00Z","format":"SRT","qc":"PASS"}
+{"screening_id":"SF-204","version":true,"delivered_at":"2032-09-18T16:55Z","format":"VTT","qc":"PASS"}
+{"screening_id":"SF-101","version":3,"delivered_at":"2032-09-18T16:55Z","format":"vtt","qc":"PASS"}
+not json

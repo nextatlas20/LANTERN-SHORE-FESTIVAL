@@ -1,0 +1,6 @@
+screening_id,title,venue,starts_at,language,status,caption_version,format,qc
+SF-512,After the Bell,Studio 1,2032-09-18T17:30Z,de,FIX,2,VTT,FAIL
+SF-204,Quiet Current,Studio 3,2032-09-18T18:30Z,en,FIX,2,SRT,FAIL
+SF-305,Paper Moons,Hall B,2032-09-18T20:00Z,ja,FIX,1,TTML,PASS
+SF-101,River of Stars,Hall A,2032-09-18T18:00Z,es,READY,2,VTT,PASS
+SF-410,Northbound,Terrace,2032-09-18T21:15Z,fr,READY,1,SRT,PASS
